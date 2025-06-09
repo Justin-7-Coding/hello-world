@@ -1,6 +1,3 @@
 # hello-world
 tutorial
-ee rr ee rr /:
-testinggggg
-
-testingggggggggggggggggg 2.0
+just testing stuff out to learn how to use github
